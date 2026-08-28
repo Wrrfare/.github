@@ -1,5 +1,12 @@
 <div align="left">
-
+  
+<p>
+<img src="https://img.shields.io/badge/status-active-050505?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/platform-FiveM-050505?style=flat-square&logo=fivem&logoColor=F40552">
+<img src="https://img.shields.io/badge/type-deathmatch-050505?style=flat-square">
+<img src="https://img.shields.io/badge/region-UK-050505?style=flat-square">
+</p>
+  
 <pre>
 warfare@fivem:~$ status
 british deathmatch / fast paced pvp / practice
