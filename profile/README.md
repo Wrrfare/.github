@@ -1,4 +1,10 @@
 <div align="left">
+
+<pre>
+warfare@fivem:~$ status
+british deathmatch / fast paced pvp / practice
+built for speed, simplicity and consistent combat
+</pre>
   
 <p>
 <img src="https://img.shields.io/badge/status-active-050505?style=flat-square&logoColor=white">
@@ -7,12 +13,6 @@
 <img src="https://img.shields.io/badge/region-UK-050505?style=flat-square">
 </p>
   
-<pre>
-warfare@fivem:~$ status
-british deathmatch / fast paced pvp / practice
-built for speed, simplicity and consistent combat
-</pre>
-
 ### about
 
 <b>WARFARE</b> is a fast-paced British FiveM deathmatch server built around a heavily modified version of the <b>vRP framework</b>.
